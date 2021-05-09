@@ -1,6 +1,6 @@
 intel GPU
 
-- [DPC++ book](https://www.apress.com/gp/book/9781484255735)
+- [Data Parallel C++: Mastering DPC++ for Programming of Heterogeneous Systems using C++ and SYCL](https://www.apress.com/gp/book/9781484255735)
 - [oneAPI GPU Optimization Guide](https://software.intel.com/content/www/us/en/develop/documentation/oneapi-gpu-optimization-guide/top.html)
 
 
@@ -13,6 +13,7 @@ RFCs
 - [StreamExecutor C API](https://github.com/tensorflow/community/blob/master/rfcs/20200612-stream-executor-c-api.md)
 - [Pluggable device for TensorFlow](https://github.com/tensorflow/community/blob/master/rfcs/20200624-pluggable-device-for-tensorflow.md)
 - [Kernel and Op Implementation and Registration API](https://github.com/tensorflow/community/blob/master/rfcs/20190814-kernel-and-op-registration.md)
+- [Kernel Extension for Variable Operations API](https://github.com/tensorflow/community/blob/dd3c8761213043a543fc3665949ab901f86b26f9/rfcs/20210504-kernel-extension-variable-ops.md)
 - [Modular TensorFlow Graph C API](https://github.com/tensorflow/community/blob/master/rfcs/20201027-modular-tensorflow-graph-c-api.md)
 
 
@@ -48,7 +49,7 @@ RFCs
 
 
 
-## HW
+## HardWare
 
 - [INTEL IRIS XE GRAPHICS PRM for DG1](https://01.org/node/37109)
 - [Developer Documents for Intel Processor Graphics](https://software.intel.com/content/www/us/en/develop/articles/intel-graphics-developers-guides.html)

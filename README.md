@@ -49,7 +49,7 @@ RFCs
 
 
 
-## HardWare
+## INTEL GRAPHICS
 
 - [INTEL IRIS XE GRAPHICS PRM for DG1](https://01.org/node/37109)
 - [Developer Documents for Intel Processor Graphics](https://software.intel.com/content/www/us/en/develop/articles/intel-graphics-developers-guides.html)

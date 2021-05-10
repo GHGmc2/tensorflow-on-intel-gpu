@@ -36,6 +36,19 @@ The most important difference between a primitive and a pure function is that a 
 **Memory objects** encapsulate handles to memory allocated on a specific engine.
 
 
+### Primitive Attributes
+
+#### [Post-ops](https://oneapi-src.github.io/oneDNN/dev_guide_attributes_post_ops.html)
+
+ - Eltwise
+ - Sum
+ - Depthwise
+ - Binary
+
+Different post-ops can be chained together by appending one after another. Note that the appending order matters: the sequence of the post operations is executed in the order of appearance. The maximum number of post operations supported in the library is 32.
+Moreover, the support might also depend on the actual implementation of a primitive. For instance, the library may not support post-ops for primitive reference implementations.
+
+
 
 ### [Interoperability with DPC++ and OpenCL](https://docs.oneapi.com/versions/latest/onednn/usergroup2.html)
 

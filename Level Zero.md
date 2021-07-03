@@ -142,6 +142,10 @@ A(physical device engines) --- C("command queue group (physical input stream)") 
 
 
 
+![](https://spec.oneapi.com/level-zero/latest/_images/core_queue.png)
+
+
+
 ### Command Queue Groups
 
 A command queue group represents **a physical input stream, which represents one or more physical device engines**.
@@ -333,6 +337,8 @@ provide explicit control of which cachelines require coherency.
 - Modules represent a single translation unit that consists of kernels that have been compiled together.
 - Kernels represent the kernel within the module that will be launched directly from a command list.
 
+![](https://spec.oneapi.com/level-zero/latest/_images/core_module.png)
+
 
 
 ## Advanced
@@ -369,6 +375,14 @@ Data coherency is maintained by the driver without any explicit involvement from
 # Tools
 
 ## [Metrics](https://spec.oneapi.com/level-zero/latest/tools/PROG.html#metrics)
+
+
+
+
+
+# Sysman
+
+
 
 
 

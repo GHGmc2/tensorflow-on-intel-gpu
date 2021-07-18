@@ -36,16 +36,11 @@ RFCs
 
 
 
-### OpenCL
-
-- [OpenCL Developer Guide for Intel Processor Graphics](https://software.intel.com/content/www/us/en/develop/documentation/iocl-opg/top.html)
-
-
-
 ## Driver
 
 - [Intel Graphics Compute Runtime](https://github.com/intel/compute-runtime)
 - [Intel Graphics Compiler](https://github.com/intel/intel-graphics-compiler)
+  - [Execution Model](https://github.com/intel/intel-graphics-compiler/blob/master/documentation/visa/3_execution_model.md)
 
 
 

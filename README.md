@@ -28,6 +28,8 @@ RFCs
 
 - [DPC++ Compiler Developer Guide and Reference](https://software.intel.com/content/www/us/en/develop/documentation/oneapi-dpcpp-cpp-compiler-dev-guide-and-reference/top.html)
 - [source code](https://github.com/intel/llvm/tree/sycl/sycl)
+  - [Environment Variables](https://github.com/intel/llvm/blob/sycl/sycl/doc/EnvironmentVariables.md)
+  - [Level Zero plugin](https://github.com/intel/llvm/tree/sycl/sycl/plugins/level_zero)
   - [DPC++ extensions to SYCL specification](https://github.com/intel/llvm/tree/sycl/sycl/doc/extensions)
 
 
@@ -39,6 +41,7 @@ RFCs
 ## Driver
 
 - [Intel Graphics Compute Runtime](https://github.com/intel/compute-runtime)
+  - [debug environment variables](https://github.com/intel/compute-runtime/blob/master/shared/source/debug_settings/debug_variables_base.inl)
 - [Intel Graphics Compiler](https://github.com/intel/intel-graphics-compiler)
   - [Execution Model](https://github.com/intel/intel-graphics-compiler/blob/master/documentation/visa/3_execution_model.md)
 

@@ -44,7 +44,7 @@ RFCs
   - [debug environment variables](https://github.com/intel/compute-runtime/blob/master/shared/source/debug_settings/debug_variables_base.inl)
 - [Intel Graphics Compiler](https://github.com/intel/intel-graphics-compiler)
   - [Execution Model](https://github.com/intel/intel-graphics-compiler/blob/master/documentation/visa/3_execution_model.md)
-  - [List of available flags](https://github.com/intel/intel-graphics-compiler/blob/master/documentation/configuration_flags.md#list-of-available-flags)
+  - [Configuration flags](https://github.com/intel/intel-graphics-compiler/blob/master/documentation/configuration_flags.md#list-of-available-flags)
 
 
 

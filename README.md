@@ -1,4 +1,8 @@
-TensorFlow on intel GPU
+# TensorFlow on intel GPU
+ 
+ - oneAPI software stack
+![](https://spec.oneapi.io/level-zero/latest/_images/one_api_sw_stack.png)
+
 
 **Comprehensive Tutorials**
 
@@ -9,14 +13,14 @@ TensorFlow on intel GPU
 
 
 
-## TensorFlow
+## TensorFlow(Framework)
 
  - [Next PluggableDevice](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/core/common_runtime/next_pluggable_device)
 
 RFCs
 
 - [Modular TensorFlow](https://github.com/tensorflow/community/blob/master/rfcs/20190305-modular-tensorflow.md)
-- [StreamExecutor C API](https://github.com/tensorflow/community/blob/master/rfcs/20200612-stream-executor-c-api.md)
+- [~~StreamExecutor C API~~](https://github.com/tensorflow/community/blob/master/rfcs/20200612-stream-executor-c-api.md)
 - [Pluggable device for TensorFlow](https://github.com/tensorflow/community/blob/master/rfcs/20200624-pluggable-device-for-tensorflow.md)
 - [Kernel and Op Implementation and Registration API](https://github.com/tensorflow/community/blob/master/rfcs/20190814-kernel-and-op-registration.md)
 - [Kernel Extension for Variable Operations API](https://github.com/tensorflow/community/blob/dd3c8761213043a543fc3665949ab901f86b26f9/rfcs/20210504-kernel-extension-variable-ops.md)
@@ -24,28 +28,29 @@ RFCs
 
 
 
-## SYCL
+## SYCL(Programming model)
 
 - [SYCL spec](https://www.khronos.org/registry/SYCL/)
 
 
 
-## Compiler
+### DPC++ Compiler
 
 - [DPC++ Compiler Developer Guide and Reference](https://software.intel.com/content/www/us/en/develop/documentation/oneapi-dpcpp-cpp-compiler-dev-guide-and-reference/top.html)
 - [source code](https://github.com/intel/llvm/tree/sycl/sycl)
   - [DPC++ Compiler and Runtime architecture design](https://github.com/intel/llvm/blob/sycl/sycl/doc/design/CompilerAndRuntimeDesign.md)
   - [Environment Variables](https://github.com/intel/llvm/blob/sycl/sycl/doc/EnvironmentVariables.md)
-  - [Level Zero plugin](https://github.com/intel/llvm/tree/sycl/sycl/plugins/level_zero)
+  - [~~Level Zero plugin~~](https://github.com/intel/llvm/tree/sycl/sycl/plugins/level_zero)
+  - [Unified Runtime](https://github.com/intel/llvm/tree/sycl/sycl/plugins/unified_runtime)
   - [DPC++ extensions to SYCL specification](https://github.com/intel/llvm/tree/sycl/sycl/doc/extensions)
 
 
 
-## [Level Zero](https://spec.oneapi.com/level-zero/latest/index.html)
+## [Level Zero(Device runtime)](https://spec.oneapi.com/level-zero/latest/index.html)
 
 
 
-## Driver
+### Driver
 
 - [Intel Graphics Compute Runtime](https://github.com/intel/compute-runtime)
   - [debug environment variables](https://github.com/intel/compute-runtime/blob/master/shared/source/debug_settings/debug_variables_base.inl)
@@ -55,7 +60,7 @@ RFCs
 
 
 
-## INTEL GRAPHICS
+## INTEL GRAPHICS(GPU)
 
 - [Developer Documents for Intel Processor Graphics](https://software.intel.com/content/www/us/en/develop/articles/intel-graphics-developers-guides.html)
 - [Intel® Graphics for Linux* - Programmer's Reference Manuals](https://www.intel.com/content/www/us/en/develop/documentation/intel-graphics-for-linux-programmers-reference-guide/top.html)

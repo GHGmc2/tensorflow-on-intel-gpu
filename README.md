@@ -60,8 +60,7 @@ RFCs
 - [Developer Documents for Intel Processor Graphics](https://software.intel.com/content/www/us/en/develop/articles/intel-graphics-developers-guides.html)
 - [Intel® Graphics for Linux* - Programmer's Reference Manuals](https://www.intel.com/content/www/us/en/develop/documentation/intel-graphics-for-linux-programmers-reference-guide/top.html)
   - Intel® Data Center GPU Max Series
-  - [2020-2021 Intel® Processors (Formerly Tiger Lake)](https://www.intel.com/content/www/us/en/develop/documentation/intel-graphics-for-linux-programmers-reference-guide/top/tiger-lake.html)
-  - [2020 Intel® Arc™ GPU(Formerly DG1)](https://www.intel.com/content/www/us/en/develop/documentation/intel-graphics-for-linux-programmers-reference-guide/top/discrete-gpu.html)
+  - [2023 Intel® Arc™ A-Series Graphics and Intel Data Center GPU Flex Series(Alchemist/Arctic Sound-M Platform)](https://www.intel.com/content/www/us/en/docs/graphics-for-linux/developer-reference/1-0/alchemist-arctic-sound-m.html)
 
 
 

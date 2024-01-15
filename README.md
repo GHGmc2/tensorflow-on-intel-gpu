@@ -6,10 +6,9 @@
 
 **Comprehensive Tutorials**
 
-[Source code](https://github.com/oneapi-src/oneAPI-samples/tree/master/Publications)
 
-- [Data Parallel C++: Mastering DPC++ for Programming of Heterogeneous Systems using C++ and SYCL](https://www.apress.com/gp/book/9781484255735)
-- [oneAPI GPU Optimization Guide](https://software.intel.com/content/www/us/en/develop/documentation/oneapi-gpu-optimization-guide/top.html)
+- [Data Parallel C++: Programming Accelerated Systems Using C++ and SYCL](https://link.springer.com/book/10.1007/978-1-4842-9691-2), [Source code](https://github.com/Apress/data-parallel-CPP)
+- [oneAPI GPU Optimization Guide](https://www.intel.com/content/www/us/en/docs/oneapi/optimization-guide-gpu/2024-0/overview.html), [Source code](https://github.com/oneapi-src/oneAPI-samples/tree/master/Publications)
 
 
 
@@ -60,7 +59,7 @@ RFCs
 
 
 
-## INTEL GRAPHICS(GPU)
+## INTEL GRAPHICS(GPGPU)
 
 - [Developer Documents for Intel Processor Graphics](https://software.intel.com/content/www/us/en/develop/articles/intel-graphics-developers-guides.html)
 - [Intel® Graphics for Linux* - Programmer's Reference Manuals](https://www.intel.com/content/www/us/en/develop/documentation/intel-graphics-for-linux-programmers-reference-guide/top.html)

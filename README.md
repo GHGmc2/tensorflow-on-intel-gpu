@@ -61,7 +61,6 @@ RFCs
 
 ## INTEL GRAPHICS(GPGPU)
 
-- [XPU Manager/XPU-SMI](https://github.com/intel/xpumanager)
 - [Developer Documents for Intel Processor Graphics](https://software.intel.com/content/www/us/en/develop/articles/intel-graphics-developers-guides.html)
 - [Intel® Graphics for Linux* - Programmer's Reference Manuals](https://www.intel.com/content/www/us/en/develop/documentation/intel-graphics-for-linux-programmers-reference-guide/top.html)
   - Intel® Data Center GPU Max Series
@@ -71,6 +70,7 @@ RFCs
 
 ## Tools
 
+- [XPU Manager/XPU-SMI](https://github.com/intel/xpumanager)
 - [Profiling Tools Interfaces for GPU](https://github.com/intel/pti-gpu)
 - [Intel® Advisor User Guide](https://software.intel.com/content/www/us/en/develop/documentation/advisor-user-guide/top/design-for-gpu-offload/offload-modeling-perspective.html)
 - [Intel VTune Profiler User Guide](https://software.intel.com/content/www/us/en/develop/documentation/vtune-help/top.html)

@@ -61,6 +61,7 @@ RFCs
 
 ## INTEL GRAPHICS(GPGPU)
 
+- [XPU Manager/XPU-SMI](https://github.com/intel/xpumanager)
 - [Developer Documents for Intel Processor Graphics](https://software.intel.com/content/www/us/en/develop/articles/intel-graphics-developers-guides.html)
 - [Intel® Graphics for Linux* - Programmer's Reference Manuals](https://www.intel.com/content/www/us/en/develop/documentation/intel-graphics-for-linux-programmers-reference-guide/top.html)
   - Intel® Data Center GPU Max Series
